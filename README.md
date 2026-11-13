@@ -64,8 +64,6 @@ The project references third-party assets at runtime rather than bundling them a
 - SVG Repo icons have per-icon licensing. Review the individual icon page at [SVG Repo](https://www.svgrepo.com/) before redistributing an icon.
 - Apple, Google, YouTube, GitHub, X, and other brand imagery remains the property of its respective owner. These references are for demonstration only and are not an endorsement.
 
-Do not add real API keys, passwords, tokens, or private credentials to this repository. Use environment variables only for public, non-secret configuration and keep `.env` files untracked.
-
 ## License
 
 This project is released under the MIT License. See [LICENSE](./LICENSE).
