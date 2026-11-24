@@ -1,15 +1,19 @@
-# macOS Clone
+# 📸 Images
+<img width="1366" height="600" alt="image" src="https://github.com/user-attachments/assets/551ffe8f-540a-42b1-91fd-6a70571ca03d" />
+<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/0b55987a-4a61-4196-a548-8375bed1e818" />
+
+# 💻 macOS Clone
 
 An open-source macOS-inspired desktop UI built with React, TypeScript, and Vite. It is a visual/demo project and does not provide production authentication or a real operating system.
 
-## Features
+## ✨ Features
 
 - macOS-style desktop, menu bar, dock, windows, and apps
 - Responsive login screen with a local demo session
 - Interactive maps, gallery, terminal, and utility windows
 - React, TypeScript, Tailwind CSS, and Vite
 
-## Getting started
+## 💫Getting started
 
 Requirements: Node.js 18 or newer.
 
